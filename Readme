@@ -1,0 +1,4 @@
+The program is compiled by "gcc -std=gnu99 processSimulator.c coursework.c linkedlist.c -o processSimulator -pthread"
+A lower priority FCFS job is pre-empted when a higher priority FCFS process shows up.
+The priority booster will boost all of the first job from priority 17 to 31 in the ready queue to the end of 16
+
